@@ -1,1 +1,1 @@
-# the-game-of-cities
+# Игра в города (the-game-of-cities)
