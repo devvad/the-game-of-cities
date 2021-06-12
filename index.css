@@ -1,0 +1,36 @@
+.container {
+  display: inline-block;
+  padding: 50px;
+  background-color: green;
+	border-radius: 20px;
+	display: inline-block;
+}
+
+.city {
+  padding: 50px;
+  border: 1px solid red;
+  font-size: 30px;
+}
+
+.message {
+  margin-top: 25px;
+  border: 1px solid red;
+  padding: 25px;
+  background-color: white;
+	font-size: 25px;
+}
+
+.link-container {
+	margin: 25px 30px 0;
+}
+
+.link {
+	text-decoration: none;
+	color: red;
+	font-size: 30px;
+	opacity: 1;
+}
+
+.link:hover {
+	opacity: 0.4;
+}
